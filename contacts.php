@@ -131,7 +131,7 @@ $conn->close();
         <p>If you have any questions or need assistance, please reach out to us using the contact form below or through the information provided.</p>
         <p><strong>Email:</strong> support@example.com</p>
         <p><strong>Phone:</strong> 555-1234</p>
-        <p><strong>Address:</strong> 123 Main Street, Hurstville, Country</p>
+        <p><strong>Address:</strong> 123 Main Street, Hurstville, Australia</p>
     </div>
 
     <!-- Contact Form -->
